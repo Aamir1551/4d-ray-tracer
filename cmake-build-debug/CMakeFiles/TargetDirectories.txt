@@ -1,0 +1,3 @@
+/home/aamir/psnl/rayTracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aamir/psnl/rayTracer/cmake-build-debug/CMakeFiles/rayTracer.dir
+/home/aamir/psnl/rayTracer/cmake-build-debug/CMakeFiles/edit_cache.dir
