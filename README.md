@@ -1,4 +1,4 @@
-# rayTracer_C
+# 4D ray tracer
 A ray tracer made using the C/C++ programming language and also following Google's coding standards
 
 
